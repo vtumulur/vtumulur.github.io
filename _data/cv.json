@@ -1,16 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Vasishta Tumuluri",
+    "email": "vtumulur@unc.edu",
+    "website": "https://vtumulur.github.io",
+    "summary": "Statistics and Mathematics Undergraduate at UNC",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Chapel Hill",
       "countryCode": "US",
-      "region": ""
+      "region": "NC"
     },
     "profiles": [
       {
@@ -25,37 +24,19 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "vtumulur",
+        "url": "https://github.com/vtumulur"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of North Carolina at Chapel Hill",
+      "area": "Bachelor of Science in Statistics and Analytics and Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2022",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     }
