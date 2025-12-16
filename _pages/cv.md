@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-import os
-import datetime
-
 {% include base_path %}
 
 Please find a PDF copy of my CV [here](/files/vita.pdf), last updated 12/16/2025.
